@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suharabeevi&label=Profile%20views&color=0e75b6&style=flat" alt="suharabeevi" /> </p>
 
-- 🔭 I’m currently working on **Job Portal**
+- 🔭 I’m currently working on New Projects 
 
-- 🌱 I’m currently learning **React,js,**
+- 🌱 I’m currently learning **Tailwid,React.js,Next.js**
 
 - 👯 I’m looking to collaborate on **Job Portal**
 
